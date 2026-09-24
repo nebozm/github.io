@@ -61,9 +61,9 @@
       "address": "https://omni.ethxn.xyz"
     },
     {
-    "name": "nebozm's server:3",   //doesn't really matter unless you're sharing this server list with someone else
+    "name": "nebozm's server:3",
     "address": "https://anisette-v3-server-m894.onrender.com"
-}
+    }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
