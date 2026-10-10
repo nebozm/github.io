@@ -2,12 +2,6 @@
   "name": "github-libretv源列表",
   "version": 2,
   "sources": [
-#    {
-#      "name": "示例点播源",
-#      "url": "https://example.com/api.php/provide/vod",
-#      "detail": "https://example.com",
-#      "isAdult": false
-#    },
     {
         "url": 'https://www.qiqidys.com/api.php/provide/vod',
         "name": '七七资源',
